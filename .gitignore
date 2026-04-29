@@ -1,0 +1,6 @@
+config.py
+memory_log.txt
+atlas.log
+atlas-error.log
+__pycache__/
+*.pyc
